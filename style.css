@@ -1,12 +1,12 @@
 body {
-    background-color: bisque;
+    background-image: url(letters-4299007_1280.jpg);
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
 h1 {
     text-align: center;
     margin-top: 80px;
-    color: darksalmon;
+    color: rgb(139, 219, 224);
     font-size: 300%;
 }
 
